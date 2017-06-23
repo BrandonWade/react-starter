@@ -2,10 +2,9 @@
   "name": "react-starter",
   "version": "1.0.0",
   "description": "A starter app using react, webpack, and postcss.",
-  "main": "index.js",
   "scripts": {
-    "build": ".\\node_modules\\.bin\\webpack",
-    "start": "webpack-dev-server --content-base .\\src\\app\\dist --port=5001"
+    "build": "./node_modules/.bin/webpack",
+    "start": "webpack-dev-server --content-base ./src/app/dist --port=8081"
   },
   "keywords": [],
   "author": "Brandon Wade",
