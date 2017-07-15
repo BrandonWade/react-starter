@@ -4,6 +4,7 @@
   "description": "A starter app using react, webpack, and postcss.",
   "scripts": {
     "build": "./node_modules/.bin/webpack",
+    "watch": "./node_modules/.bin/webpack --watch",
     "start": "webpack-dev-server --content-base ./src/app/dist --port=8081"
   },
   "keywords": [],
