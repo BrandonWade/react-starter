@@ -4,6 +4,7 @@ import './app.css';
 
 const App = () => (
   <div id={ 'container' }>
+    <h1>React Starter App</h1>
   </div>
 );
 

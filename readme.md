@@ -1,14 +1,12 @@
 # React starter
-A starter repo for starting on React projects quickly.
+A repo for getting started on React projects quickly.
 
 ## Modules
 * [React](https://github.com/facebook/react)
 * [Webpack](https://github.com/webpack/webpack)
 * [Babel](https://github.com/babel/babel)
-* [PostCSS](https://github.com/postcss/postcss)
-  * [LostGrid](https://github.com/peterramsing/lost)
 
 ## Commands
 * `npm run build` build the frontend assets
 * `npm run watch` build and watch the frontend assets with Webpack
-* `npm run start` build, watch, and serve the frontend assets with Webpack Dev Server 
+* `npm run start` build, watch, and serve the frontend assets with Webpack Dev Server
